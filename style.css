@@ -55,7 +55,7 @@ section {
 article {	
 	margin: auto;
 	position: relative;
-	bottom: 180px;
+	bottom: 200px;
 	right: 14.9%;
 	color: #ebebeb;
 	background-color: #777; 
@@ -63,72 +63,75 @@ article {
 	padding:23px;
 	padding-bottom: 40px;
 	width: 28.5%;
-	height: 103px;
+	height: 125px;
 	
 
 
 	}
 
 h1 {	
+	margin: auto;
 	position: relative;
+	bottom: 330px;
+	right: 14.9%;
 	color: #777;
 	background-color: #ebebeb;
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 30px;
-	margin: 10px;
-	width: 450px;
+	width: 28.9%;
 	height: 1px;
 	font-size: 18px;
-	float: left;
-	left: -520px;
-	top: -55px;
+
 }
 
 p {
+	margin: auto;
 	position: relative;
+	bottom: 320px;
+	right: 14.9%;
 	color: #777;
 	background-color: #ebebeb;
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 30px;
-	margin: 10px;
-	width: 450px;
+	width: 28.9%;
 	height: 1px;
 	font-size: 18px;
-	float: left;
-	left: -520px;
-	top: -65px;
+	
+	
 }
 
 
 aside {
-	position: absolute;
+	margin: auto;
+	position: relative;
+	left: 17.7%;
+	bottom: 554px;
 	color: #777;
 	background-color: #ebebeb;
 	text-align: center;
-	padding: 30px;
-	margin: 10px;
-	width: 320px;
-	height: 210px;
-	float: left;
-	right: 420px;
+	padding: 25px;
+	width: 24.8%;
+	height: 215px;
 
+
+	
 }
 
 	
 
 
 footer {	
+	margin: auto;
 	position: relative;
+	bottom: 534px;
 	color: #777;
 	background-color: #ebebeb;
 	text-align: center;
 	padding: 30px;
-	margin: 10px;
-	width: 890px;
-	top: -25px;
-	clear: both;
+	width: 59.25%;
+	
 	
 }
 
